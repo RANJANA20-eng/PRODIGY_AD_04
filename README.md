@@ -12,3 +12,4 @@ A small winning strategy is used to play with the system. The system will try to
 # Output :
 The Tic Tac Toe Game App will look like :
 ![Screenshot (9179)](https://github.com/RANJANA20-eng/PRODIGY_AD_04/assets/133365717/965b8964-c962-4968-8124-06e9a72af759)
+![image](https://github.com/RANJANA20-eng/PRODIGY_AD_04/assets/133365717/aef0335a-dc4b-4a6d-a5aa-f10c38e984d2)
